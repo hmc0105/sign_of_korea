@@ -1,0 +1,12 @@
+1. It uses Keras-yolov3
+  https://github.com/qqwweee/keras-yolo3
+
+2. It uses racoon_data for change xml to tfrecord
+  https://github.com/datitran/raccoon_dataset
+  
+3. Dataset for training
+  https://drive.google.com/open?id=1Xr5KZ_vjbHO4XdYDkm6W2tj_uObM68dB
+  
+ 
+ 
+  
